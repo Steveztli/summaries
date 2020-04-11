@@ -1,11 +1,11 @@
-#Resumes
+# Resumes
 
-##Purpose
+## Purpose
 Saving my resumes of the resources that I have read on an independant platform.
 
-##List
+## List
 
-####Books
+#### Books
 * __Atomic Habits__: An Easy and Proven Way to Build Good Habits and Break Bad Ones - James Clear
 * __Captivate__: The Science of Succeeding with People - Vanessa Van Edwards
 * __Drive__: The Surprising Truth about What Motivates Us - Daniel H. Pink
@@ -23,6 +23,6 @@ Saving my resumes of the resources that I have read on an independant platform.
 
 #### Trainings
 
-##Potential resources
+## Potential resources
 
 //TO DO

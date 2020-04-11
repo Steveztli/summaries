@@ -1,4 +1,4 @@
-#Mindset
+# Mindset
 
 ##The mindsets
 People with a growth mindset are solution oriented: for every failure, there's a solution that you have to work for. Blaming yourself won't solve anything. They stretch themselves when it's not going well.
@@ -7,9 +7,9 @@ Don't judge people on their skill, help them to learn if they need.
 
 >Think about how to stretch/challenge myself
 
-##Inside the mindsets
+## Inside the mindsets
 
-####Learning from failures
+#### Learning from failures
 
 The outcome does not qualify your efforts: fail or success. A failure can turn into a future success, what matters is to not give up after failures.
 Learning > the outcome
@@ -19,7 +19,7 @@ A fixed mindset transforms an action to an identity `fail → I'm a failure`
 Don't deny your mistakes, admit them. That's how you can go forward. Being corrected on a mistake is a way to learn
 
 
-####Work for it
+#### Work for it
 If there's something that you really want it, you have to work for it and if you work hard enough, you will achieve it.
 
 Never rely on past successes, for example an athlete can get a gold medal once, that doesn not make him having a successful career or life.
@@ -29,12 +29,12 @@ When you are sad or feel depressed, the best way to go over it, is to learn some
 
 Avoid being lazy and tired when it becomes to be hard, that's when you learn the most.
 
-####Talent
+#### Abilities
 Some people perform better without any learning but after training everyone can reach and beat the talented people.
 With training you can also become better than the well-born and trained ones.
 
 
-##Praising people 
+## Praising people 
 Praise people for the hard work not for their talent.
 Eg: `It's fantastic what you have accomplished by training at this` instead of `Ỳou are so good at this` 
 
