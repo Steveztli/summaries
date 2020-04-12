@@ -1,6 +1,13 @@
 # Mindset
 
-##The mindsets
+## Resume
+There are two mindsets:
+- Fixed mindset: people think that their abilities are fixed and can't be improved
+- Growth mindset: people believe that their abilities can be grow through work and training
+
+People can have different mindset depending on the ability, for example many people think that they can't draw or can't become leaders.
+
+## The mindsets
 People with a growth mindset are solution oriented: for every failure, there's a solution that you have to work for. Blaming yourself won't solve anything. They stretch themselves when it's not going well.
 
 Don't judge people on their skill, help them to learn if they need.
@@ -47,51 +54,56 @@ Instead of `He's smarted` say
 - `He had a better strategy`
 - ...
 
----
+We are used to only see the outcomes but not the hard work behind every success.
+If you think about the athletes we only see them on television at the Olympic games and we praise them for winning medals but we actually never show the hard work that they have put to be there.
 
-//smth about athlete that you do not show on television only the medal?
+> Me: Makes me remember this talk: [Compete to Create: Erik Vendt](https://findingmastery.net/erik-vendt/)
 
-Business: Mindset and Leadership
-Good to great → best leaders admit their errors and are self-effacing, don't undermine, don't take credit.
+## Growth mindset at work
 
-(check p 110- 112)
+Having a growth mindset implies:
+- admitting your errors
+- being self-efface
+- don't undermining 
+- not taking credit
+  
+_-> page 110 - 112_
 
-People like to use their skills to have fast results, not use new a skill that they need to learn.
+People like to use the skills that they already have because that gives them fast results and we are not used to learn and give ourself time to learn a new skill.
 
-People target those they fear (attack competent employees to save your competences)
+Elitism is a fixed mindset, you don't believe in the development of others:
+- it's about judging. It destroyes innovation and results in pleasing the boos
+- Self-importance because it leads to no make progress and not accepting feedback
+- Elitists target the people they fear, the comptent people to save their own competences.
 
-Don't judge, it destroys innovation and then all that remains is pleasing the boss 
+Instead mentor people, don't put too much faith in talent. It's also by believing in growth that you can have discussions and start learning.
 
-Self-importance → leads to no progress or feedback
+_-> page 141_
 
-Elitism is bad because of all this, mentoring is good
+Show people their progress in learning. 
+Try to see learning as a plain field where you need to build a city.
 
-Don't put too much faith in talent → then no discussion and learning happen to lead to no growth
 
-Fixed mindset, group thinking: don't dare to contradict the heroes (publicly)
+## Feedback 
 
-(check p 141)
+Ask specific feedback.
+Give feedback that promotes learning.
 
-Ask specific feedback? Ask/give feedback that promotes learning.
+## Parenting
 
-Parents, teachers, and coaches: where do mindsets come from?
-Be mindful of your praise to people, don't do on smart, talents,... but on work
+Humans mimic behavior even from a young age, pay attention to your words.
 
-People mimic behavior even from a young age, pay attention to your words
+_-> page 202 - 204_
 
-Success is not coming to you, you must come to it
+## Growth Mindset
 
-Show people their progress in learning, see learning as a plain field where you need to build a city → gamification (question)
+Be aware that success is not coming to you, you must come to it.
 
-Don't judge on the talent
+- Learn from failures
+- Praise hard process
+- Deepening understanding 
 
-(Check p 202 & 204)
-
-To pass the growth mindset:
-
-Learn from failures
-Praise hard process
-deepening understanding 
+__Don't judge on the talent__
 
 ## Book recommendations
 
