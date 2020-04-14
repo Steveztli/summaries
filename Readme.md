@@ -16,13 +16,19 @@ Saving my resumes of the resources that I have read on an independant platform.
 * __Radical Candor__: How to Get What You Want by Saying What You Mean - Kim Scott
 * [__Stealing Fire__](/books/stealing_fire.md): How Silicon Valley, the Navy SEALs, and Maverick Scientists Are Revolutionizing the Way We Live and Work - Steven Kotler and Jamie Wheal
 * __The Subtle Art of not giving a F*ck__ - Mark Manson
-* __Win Forever__: Live, Work, and Play Like a Champion - Pete Carroll
+* [__Win Forever__](/books/win_forever.md): Live, Work, and Play Like a Champion - Pete Carroll
 * __You Are a Badass__: How to Stop Doubting Your Greatness and Start Living an Awesome Life - Jen Sincero
 
 #### Articles
 
 #### Trainings
 
+- Compete to Create
+
 ## Potential resources
 
-//TO DO
+- Emotional Inteligence 2.0
+- Google Emotional Intelligence 101 course
+- Google study on psychological safety
+- Looking down the Wolf - Mark Divine
+- Leadership Strategy and Tactics: Field Manual - Jocko Willink

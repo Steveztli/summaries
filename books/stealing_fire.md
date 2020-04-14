@@ -72,3 +72,18 @@ There are 3 way to train us to experience more the alternate state:
 - Meditation
 - Technological simulation
 - Drugs
+  
+## Why we missed it
+
+There are 3 main entities that keep us not exploring the altered states:
+- Religion, by refusing to people to find a connection to the us outside of the Church. 
+- Body, by being afraid of what is not natural that could have bad impact on us.
+- State, by deciding which products are legal and illegal.
+
+There are reasons why those entities (pale) exists, because this state is a double edge sword and it is good that they prevent it.
+
+We are in danger or losing too much of ourselves. Our cherished rational individualism risks to be over-run by the power of the irrational collectivism. 
+
+Many examples exist throug history on this: Nazi, Communism, Charles Manson and many more...
+
+> Madness is rare in individuals, but in groups, political parties, nations and eras, it's the rule. ~ _Nietzsche_
