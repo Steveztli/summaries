@@ -84,6 +84,34 @@ There are reasons why those entities (pale) exists, because this state is a doub
 
 We are in danger or losing too much of ourselves. Our cherished rational individualism risks to be over-run by the power of the irrational collectivism. 
 
-Many examples exist throug history on this: Nazi, Communism, Charles Manson and many more...
+Many examples exist through history on this: Nazi, Communism, Charles Manson and many more...
 
-> Madness is rare in individuals, but in groups, political parties, nations and eras, it's the rule. ~ _Nietzsche_
+> Madness is rare in individuals, but in groups, political parties, nations and eras, it's the rule. 
+> ~ _Nietzsche_
+
+## Psychology
+
+Studies have shown that Meditation, martial arts, controlled MDMA intake and surf can reduce post traumatic stress disorder.
+
+There's a lot a scientific studies about depression, but very fe abot joy. We are focusing on being normal while we forget that we can feel and be more than normal.
+
+It's important to move from self-authoring to self-transformation however only 5% succeeds in making that move, a big part of those 5% have frequent access to altered states.
+Those people by being able to change themselves, they succeeded to change their organization.
+
+Altered states can lead to long lasting altered traits like empathy, more ethic and more productive.
+
+## Neurobiology
+
+Law of the instrument:
+> When all you have is a hammer, every problem looks like a nail.
+
+Meditation and exercices boost your mood. 
+Most of us postpone all this until we feel better or motivated but we should do these hen we need them the most, when we do not feel great.
+
+## Pharmacology
+
+Animals shoot themself (eg: dophins, horses, dogs, goats,... )
+>The pursuit of intoxication with drugs is a primary motivational force in organisms. 
+~ _Ronald K. Siegel_
+
+Drugs put us away from survival, so why is that behavior still there? It serves a evolutionary purpose by doing something different we are 'depatterning'.
