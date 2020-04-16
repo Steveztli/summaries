@@ -100,6 +100,8 @@ Those people by being able to change themselves, they succeeded to change their 
 
 Altered states can lead to long lasting altered traits like empathy, more ethic and more productive.
 
+> Podcasts: [Oprah & Eckhart Tolle](http://www.oprah.com/app/oprah-eckhart-tolle-a-new-earth-full-episodes.html)
+
 ## Neurobiology
 
 Law of the instrument:

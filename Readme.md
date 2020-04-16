@@ -10,7 +10,7 @@ Saving my resumes of the resources that I have read on an independant platform.
 * __Captivate__: The Science of Succeeding with People - Vanessa Van Edwards
 * __Drive__: The Surprising Truth about What Motivates Us - Daniel H. Pink
 * __Grit__: The Power of Passion and Perseverance - Angela Duckworth
-* __Management 3.0__: Leading Agile Developers, Developing Agile Leaders - Jurgen Appelo
+* [__Management 3.0__](/books/management30.md): Leading Agile Developers, Developing Agile Leaders - Jurgen Appelo
 * [__Mindset__](/books/mindset.md): Changing the Way You Think to Fulfil Your Potential - Dr Carol Dweck
 * __Powerful__: Building a Culture of Freedom and Responsibility - Patty McCord
 * __Radical Candor__: How to Get What You Want by Saying What You Mean - Kim Scott
