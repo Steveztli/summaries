@@ -91,4 +91,72 @@ Embrace uncertainty and change.
 
 ## The Information Innovative System
 
-//TO BE CONTINUED
+An __agent__ can actively organize and reorganize itself in a system, this requires energy.
+
+Focus on innovation not on data because innovation is key to survival.
+Innovation fosters on the edge of order and choas, it's bottom up, it is emergent not planned.
+
+#### Innovation
+
+1. Knowledge 
+   - is continuous input of information can be tuned into innovation.
+   - is always a network (people, neurons, ...) because the amount of knowledge per silo is less that the number of connections.
+
+   Because most knowledge can't be written, it's REQUESTED that actors are willing to work together and share.
+
+2. Creativity: diverging from conventions, giving new answers to old information. 
+   Creation of things that are unique and useful.
+
+Innovation is useless without implementation
+
+##### Five steps to creativity
+
+1. Preparation, understand the problem
+2. Incubation, thinking of it
+3. Intimation, changing perspective
+4. Illumination
+5. Verification
+
+#### Motivation
+
+Only agents can initiate interactions, develop knowledge, create and perform activities. 
+All this requires motivation, that's why the main focus should be on agent.
+
+`A manager needs to select people, set expectations, motivate and develop them.`
+
+Creation of novelty requires the desire to diverge, to take risks, to defy convetional options and to be expose of being wrong.
+
+#### Diversity
+
+Many benefits: increase flexibility, resist though environments and feed innovation.
+There's no average person in a diversity system.
+
+`/!\ Managers often hire lookalike`
+
+It's important to have a common ground and a same goal.
+
+#### Personality
+
+Virtues highly impact actors behavior and motivation, the system also needs virtues that are shared among its actors with some diversity.
+
+> [Law of Requisite Variety ~ _Ros Ashby_](https://www.businessballs.com/strategy-innovation/ashbys-law-of-requisite-variety/)
+> A system can be controller only if the controller is more or equally complex as the controlled.
+> eg: Tools and process are controlled by humans.
+
+## How to energize people
+
+Creativity steps:
+- Pre-conventional: no knowledge with to full creativity
+- Conventional phase: knowledge constraints creativity
+- Post-conventional: knowledge with full creativity
+
+Creativity requires available information, knowledge, motivated people with a good mix of personalities.
+
+Creativity can also be developed from the environment, that's the manager's role: 
+- Safety, feeling safe to express ideas and asks questions
+- Play, challenge people and foster creativity like any games
+- Variation, routine kills creativity. The manager needs to find ways to break it, for example changing sprint names or meeting rooms
+- Visibility, make creative work visible to foster a culture
+- Edge, of your comfort zone. It has to hurt a little to be effective like any workout.
+
+The manager is responsible for the environment their employees work in, give them what they need!

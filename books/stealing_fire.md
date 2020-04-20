@@ -117,3 +117,5 @@ Animals shoot themself (eg: dophins, horses, dogs, goats,... )
 ~ _Ronald K. Siegel_
 
 Drugs put us away from survival, so why is that behavior still there? It serves a evolutionary purpose by doing something different we are 'depatterning'.
+
+## Technology

@@ -3,7 +3,7 @@
 ## Purpose
 Saving my resumes of the resources that I have read on an independant platform.
 
-## List
+## Resumes
 
 #### Books
 * __Atomic Habits__: An Easy and Proven Way to Build Good Habits and Break Bad Ones - James Clear
@@ -20,6 +20,7 @@ Saving my resumes of the resources that I have read on an independant platform.
 * __You Are a Badass__: How to Stop Doubting Your Greatness and Start Living an Awesome Life - Jen Sincero
 
 #### Articles
+* [__Google: Project Aristotle__](/articles/project-aristotle.md)
 
 #### Trainings
 
@@ -27,8 +28,25 @@ Saving my resumes of the resources that I have read on an independant platform.
 
 ## Potential resources
 
+
+#### Books
+
+- Dare to Lead - Brené Brown
+- Endure: Mind, Body and the Curiously Elastic Limits of Human Performance - Alex Hutchinson
+- Everything Is F*cked: A Book About Hope - Mark Manson
+- Leadership Strategy and Tactics: Field Manual - Jocko Willink
+- Looking down the Wolf - Mark Divine
+- Meditations - Marcus Aurelius
+- Relentless: From Good to Great to Unstoppable - Tim S. Groover
+- One minute manager
+
+#### Videos/Podcasts
+- Finding mastery
+- Oprhas & Eckhart Tolle
+- [Tim Ferriss](https://tim.blog/)
+- Elon Musk: ReCode
+  
+#### Others
 - Emotional Inteligence 2.0
 - Google Emotional Intelligence 101 course
-- Google study on psychological safety
-- Looking down the Wolf - Mark Divine
-- Leadership Strategy and Tactics: Field Manual - Jocko Willink
+- [Google rework](https://rework.withgoogle.com/guides/understanding-team-effectiveness/steps/introduction/)
