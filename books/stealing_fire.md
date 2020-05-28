@@ -1,8 +1,11 @@
 # Stealing fire
 
-## What's the fire
+## Resume
 
-// TODO
+The book is about flow and altered states. Many people experienced those states with different results but they all have in common the sense of selflessness, timelessness, effortlessness and richness.
+They are achievable using different techniques from those domains: neurobiology, pharmacology, technology and psychology.
+
+Experiencing those states on a regular basis provide many benefits.
 
 ## Why it matters
 
@@ -119,3 +122,28 @@ Animals shoot themself (eg: dophins, horses, dogs, goats,... )
 Drugs put us away from survival, so why is that behavior still there? It serves a evolutionary purpose by doing something different we are 'depatterning'.
 
 ## Technology
+
+Exepriencing extreme sports which becomes more and more safe because of the improvements we are making in technology.
+
+## Hedonic Calendar
+
+#### Step 1
+List everything you love to do
+
+#### Step 2
+Use the Ecstatis equation (Time * reward/risk) to rank this list for value.
+
+#### Step 3
+Sort your activities into one of five buckets: daily, weekly, monthly, seasonally and annually. More intense experience typically provide more information but they do so at a higher level of risk. So it makes sense to allow plenty of time for recovery and integration between those sessions while committing to more frequent supportive practices.
+
+#### Step 4
+Connect those practices to preexisting traditions (sunrise, solstices, birthdays,...)
+
+#### Step 5
+Remember you are playing with addictive neurochemistry, beware to not become a bliss junkie.
+
+## Conclusion
+
+We are steeped in a "high and slow" culture of relentless goal setting and linear forward progress. We valorize suffering and sacrifice, even when the victories they provide are hollow.
+
+It's hard to fathom how much faster we can go, how much ground we can cover, if we can only appreciate what high performance now looks like.

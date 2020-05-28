@@ -78,34 +78,17 @@ Are we working on something that is personally important for each of us?
 
 Do we fundamentally believe that the work we're doing matters.
 
-
-
-## Sources
-
-[Google rework: five keys to a successful team](https://rework.withgoogle.com/blog/five-keys-to-a-successful-google-team/)
-[Google rework: understand team effectiveness](https://rework.withgoogle.com/guides/understanding-team-effectiveness/steps/introduction/)
-[HBR: how to create psychological safety](https://hbr.org/2017/08/high-performing-teams-need-psychological-safety-heres-how-to-create-it)
-
-
-
-
-//SMTH else
-https://www.fastcompany.com/3044157/inside-googles-insanely-popular-emotional-intelligence-course
-
-
-//SOMEWHERE ???
-
-
-### Emotional intelligence
-
-On another study, researchers found that good teams generally do two things:
-
-1. Give everyone a chance to speak, no single person dominate the conversation.
-2. High 'average social sensitivity', team members can correctly interpret fellow team mates' expressions.
-
 ## How to be a better team
 
 Listen more, talk less
 Praise generously
 Reframe negative feedback
 Pay attention to your team mates' emotions
+
+## Sources
+
+- [Google rework: five keys to a successful team](https://rework.withgoogle.com/blog/five-keys-to-a-successful-google-team/)
+
+- [Google rework: understand team effectiveness](https://rework.withgoogle.com/guides/understanding-team-effectiveness/steps/introduction/)
+
+- [HBR: how to create psychological safety](https://hbr.org/2017/08/high-performing-teams-need-psychological-safety-heres-how-to-create-it)

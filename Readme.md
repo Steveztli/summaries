@@ -1,9 +1,9 @@
-# Resumes
+# Summaries
 
 ## Purpose
-Saving my resumes of the resources that I have read on an independant platform.
+Saving my summaries of the resources that I have read on an independant platform.
 
-## Resumes
+## Summaries
 
 #### Books
 * __Atomic Habits__: An Easy and Proven Way to Build Good Habits and Break Bad Ones - James Clear
