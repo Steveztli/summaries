@@ -63,3 +63,90 @@
 > And so you have to be an idiot as well?
 
 ## Book 6
+
+> The mind is that which is roused and directed by itself. It makes of itself what is chooses. It makes what it chooses of its own experience.
+
+> The way people behave. THey refuse to admire their contemporaries, the people whose lives they share. No, but to be admired by Posterity - people they've never met and never will- that's what they set their hearts on. You might as well be upset at not being a hero to your great-grandfather.
+
+> Not to assume it's impossible because you find it hard. But to recognize that if it's humanly possible, you can do it too.
+
+> If anyone can refute me - show me I'm making a mistake or looking at things from the wrong perspective - I'll gladbly change. It's the truth I'm aftern abd the truth never harmed anyone. What harms us is to persist in self-deceit and ignorance.
+
+> Awaken, return to yourself. Now, no longer asleep, knowing they were only dreams, clear-headed again, treat everything around you as a dream.
+
+> Nothing has meaning to my mind except its own actions. Which are withint its own control. And it's only the immediate one that matter. Its past and future actions too are meaningless.
+
+> It's normal to feel pain in your hands and feet, if you're using your feet as feet and your hands as hands. And for a human being to feel stress is normal - if he's living a normal human life.
+> And if it's normal, how can it be bad?
+
+> You take things you don't control and define them as "good" or "bad". And so of course when the "bad" things happen, or the "good" ones don"t, you blame the gods and feel hatred for the people responsible- or those you decide to make responsible. Much of our bad behavior stems from trying to apply those criteria. If we limited "good" and "bad" to our own actions, we'd have no call to challenge God, or traet other people as enemies.
+
+> Does the sun try to do the rain's work? Or Asclepus Demeter's?
+> And what about each of the stars - different, yet working in common?
+
+> It doesn't bother you that you weight only x or y pounds and not three hundred. Why should it bother you that you have only x or y years to live and not more? You accept the limits placed on your body. Accept those placed on your time.
+
+> Ambition means tying your well-being to what other people say or do.
+> Self-indulgence means tying it to the things that happen to you.
+> Sanity means tying it to your own actions.
+
+> Practice really hearing what people say. Do your best to get inside their minds.
+
+> What injures the hive injures the bee.
+
+> If the crew talked back to the captain, or patients to their doctor, then whose authority would they accept? How could the passengers be kept safe of the patient healthy?
+
+> No one can keep you from living as your nature requires. Nothing can happen to you that is not required by Nature.
+
+## Book 7
+
+> Surrounded as we are by all of this, we need to practice acceptance. Without disdain. But remembering that our own worth is measured by what we devote our energy to.
+
+> Focus on what is said when you speak and on what results from each action. Know what the one aims at, and what the other means.
+
+> No matter what anyone says or does, my task is to be good. Like gold or emerald or purplr repeating itself, "No matter what anyone says or does, my task is to be emerald, my color undiminished."
+
+> When people injure you, ask yourself what good or harm they thought would come of it. If you understand thant, you'll feel sympathy rather than outrage or anger. Your sense of good and evil may be the same as theirs, or near it, in which case you have to excuse them. Or your sense of good and evil may differ from theirs. In which case they're misguided and deserve your compassion. Is that so hard?
+
+> Discard your misperceptions.
+> Stop being jerked like a puppet.
+> Limit yourself to the present.
+> Understand what happens - to you, to others.
+> Analyze what exists, break it all down: material and cause.
+> Anticipate your final hours.
+> Other people's mistakes? Leave them to their makers.
+
+> And why should we feel anger at the world?
+> As if the world would notice.
+
+> Everywhere, at each moment, you have the option:
+> - to accept this event with humility
+> - to treat this person as he should be treated
+> - to approach this thought with care, so that nothing irrational creeps in.
+
+> Think of yourself as dead. You have lived your life. Now take what's left and live it properly.
+
+> Perfection of character: to live your last day, every day, without frenzy, or sloth, or pretense.
+
+## Book 8
+
+> For every action, ask: How does it affect me? Could I change my mind about it?
+
+> If it's in your control, why do you do it? If it's in someone else's, then who are you blaming? Atoms? The gods? Stupid either way.
+Blame no one. Set people straight, if you can. If not, just repair the damage. And suppose you can't do that either. Then where does blaming people get you?
+No pointless actions.
+
+> You could be good today, but instead you choose tomorrow.
+
+> External things are not the problem. It's your assessment of them. Which you can erase right now.
+If the problem is something in your own character, who's stopping you from setting your mind straight?
+And if it's that you're not doing something you think you should be, why not just do it?
+But there are insuperable obstacles. 
+Then it's not a problem. The caus of your inaction lies outside you.
+But how can I go on living with that undone?
+Then depart, with a good conscience, as if you'd done it, embracing the obstacle.
+
+> What doesn't transmit light creates its own darkness.
+
+## Book 9
+
