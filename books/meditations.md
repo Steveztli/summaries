@@ -150,3 +150,28 @@ Then depart, with a good conscience, as if you'd done it, embracing the obstacle
 
 ## Book 9
 
+> Leave other people's mistales where they lie.
+
+> You can discard most of the junk that clutters your mind, things that eist only there, and clear out space for youself.
+
+## Book 10
+
+> Everything that happen is either edurable or not.
+> If it's endurable, then endur it. Stop complaining.
+> If it's unendurable... then stop complaining. Your destruction will mean its end as well.
+> Just remembr: you can endure anything your mind can make endurable, by treating it as in your interest to do so.
+> In your interest, or in your nature.
+
+> If they've made a mistake correct them gently and show them where they went wrong. If you can't do that, then the blame lies with you. Or no one.
+
+> To stop talking about what the good man is like, and just be one.
+
+> Stop whatever you're doing for a moment and ask yourself: Am I afraid of death because I won't be able to do this anymore?
+
+> When faced with people's bad behavior, turn around and ask when you have acted like that. When you saw money as good, or pleasure, or social position. Your anger will subside as soon as you recongnize that they acted under compulsion (what else could they do?)
+> Or remove the compulsion, if you can.
+
+> Learn to ask of all actions, "Why are they doing that?"
+> Starting with your own.
+
+## Book 11
