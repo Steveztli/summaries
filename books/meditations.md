@@ -175,3 +175,44 @@ Then depart, with a good conscience, as if you'd done it, embracing the obstacle
 > Starting with your own.
 
 ## Book 11
+
+> As you move forward in the logos, people will stand in your way. They can't keep you from doing what's healthy, don't let them stop you from putting up with them either. Take care on both counts. Not just sound jedgements, solid actions - tolerance a well, for those who try to obstruct us or give us trouble in other ways.
+> Becaus anger, too, is weakness, as much as breaking down and giving up the struggle. Both are deserters: the man who breaks and runs, and the one who lets himself be alienated from his fellow humans.
+
+> Fout habits of thought to watch for, and erase from your mind when you catch them. Tell youself:
+> - This thought is unnecessary
+> - This one is destructive to the people around you
+> - This wouldn't be what you really think (to say what you don't think - the definition of absurdity)
+> And the fourth reason for self-reproach: that the more divine part of you u has been beaten and subdued by the degraded mortal part - the body and its stupid self-indulgence.
+
+> "If you don't have a consistent goal in life, you can't live it in a consistent way".
+> Unhelpful, unless you specify a goal.
+> There is no common benchmark for all the things that the people think are good - except for few, the ones that affect us all. So the goal should be a common one - a civic one. If you direct all your energies toward that, your actions will be consistent. And so will you.
+
+## Book 12
+
+> It never ceases to amaze me: we all love ourselves more than other people, but care more about their opinion than our own. If a god appeared to us - or a wise human being, even - and prohibited us from concealing our thoughts or imagining anything wihout immedialety shouting it out, we wouldn't make it through a single day. That's how mch we value other people's opinions - instead of our own.
+
+> It's time you realized that you have something in you more powerful and miraculous than the things that affect you and make you dance like a puppet.
+> What's in my thoughts at this moment? Fear? Jaleousy? Desire? Feelings like that?
+
+> To undertake nothing:
+> at random or without purpose;
+> for any reason but the common good.
+
+> That before long you'll be no one, and nowhere. Like all the things you see now. All the people now living.
+> Everything's destiny is to change, to be transformed, to perish. 
+> So that new things can be born.
+
+> To be angry at something means you've forgotten:
+>  That everything that happens is natural.
+>  That the responsability is theirs, not yours.
+> And further...
+>  That whatever happens has always happened, and always will, and is happening at this very moment, everywhere. Just like this.
+>  What links one human being to all humans: not blood, or birth, but mind.
+> And...
+> That an individual's mind is God and of God.
+> That nothing belongs to anyone. Children, body, life itself - all of them come from that same source.
+> That it's all how you choose to see things.
+> That the present is all we have to live in. Or to lose
+
