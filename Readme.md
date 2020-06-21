@@ -8,6 +8,7 @@ Saving my summaries of the resources that I have read on an independant platform
 #### Books
 * __Atomic Habits__: An Easy and Proven Way to Build Good Habits and Break Bad Ones - James Clear
 * __Captivate__: The Science of Succeeding with People - Vanessa Van Edwards
+* [__Dare to Lead__](books/dare_to_lead.md) - Brené Brown
 * __Drive__: The Surprising Truth about What Motivates Us - Daniel H. Pink
 * __Grit__: The Power of Passion and Perseverance - Angela Duckworth
 * [__Management 3.0__](/books/management30.md): Leading Agile Developers, Developing Agile Leaders - Jurgen Appelo
@@ -23,6 +24,9 @@ Saving my summaries of the resources that I have read on an independant platform
 #### Articles
 * [__Google: Project Aristotle__](/articles/project-aristotle.md)
 
+#### Challenges
+* [__30 day of Positivity__](/challenges/30_day_positivity.md)
+
 #### Trainings
 
 - Compete to Create
@@ -33,7 +37,6 @@ Saving my summaries of the resources that I have read on an independant platform
 
 #### Books
 
-- Dare to Lead - Brené Brown
 - Endure: Mind, Body and the Curiously Elastic Limits of Human Performance - Alex Hutchinson
 - Everything Is F*cked: A Book About Hope - Mark Manson
 - Leadership Strategy and Tactics: Field Manual - Jocko Willink

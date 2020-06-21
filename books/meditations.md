@@ -1,6 +1,5 @@
 # Meditations
 
-
 ## Book 2
 
 >So none of them can hurt me. No one can implicate me in ugliness. Nor i can feel angry at my relative or hate him. We are born to work together like feet, hands, and eyes, like the two rows of teeth, upper and lower. To obstruct each other is unnatural.
