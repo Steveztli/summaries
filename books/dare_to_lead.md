@@ -30,3 +30,21 @@ People who aren't getting their asses kicked in the arena on occasion, I'm not i
 
 Get a one inch by one inch piece of paper and write down the names of the people whose opinions of you matter. Keep that list and take some time to share some gratitude to them, they are your `square squad`.
 Those people should love you for your imperfections and vulnerability, don't take 'yes' people, take people that respect you enough to give you productive and honest feedback.
+
+Trust is earned in the smallest moments. It is not earned through heroic deeds or highly visible actions, but through paying attention, listening and gestures of genuine care and connection.
+
+There's no fake vulnerability. Fake vulnerability can look like a leader telling us that we can ask questions but not taking the tume to create the psychological safety to do it, or not offering a pause in the conversation for anyone else to speak at all. 
+Leaders are also not shriking the responsibility of attending to the team's fears and feeling by oversharing and sympathy. 
+
+`"Seek first to understand, then to be understood"`~ Stephen Covey.
+
+#### Stealth intention:
+"I can protect myself from rejecton, shame, judgement, and people turning away from me and thinking I'm a bad person".
+Stealth intention is a self-protection need that lurks beneath the surfacea nd often drives behavior oustide our values.
+
+#### Stealth expectation:
+"They won't turn away from me and think I'm a bad person".
+Stealth expectation always lead to disappointement, resentment, and more fear.
+
+## Part 2 - The call to courage
+

@@ -5,6 +5,9 @@ Saving my summaries of the resources that I have read on an independant platform
 
 ## Summaries
 
+#### Articles
+* Google: Project Aristotle
+
 #### Books
 * __Atomic Habits__: An Easy and Proven Way to Build Good Habits and Break Bad Ones - James Clear
 * __Captivate__: The Science of Succeeding with People - Vanessa Van Edwards
@@ -20,9 +23,6 @@ Saving my summaries of the resources that I have read on an independant platform
 * __The Subtle Art of not giving a F*ck__ - Mark Manson
 * [__Win Forever__](/books/win_forever.md): Live, Work, and Play Like a Champion - Pete Carroll
 * __You Are a Badass__: How to Stop Doubting Your Greatness and Start Living an Awesome Life - Jen Sincero
-
-#### Articles
-* [__Google: Project Aristotle__](/articles/project-aristotle.md)
 
 #### Challenges
 * [__30 day of Positivity__](/challenges/30_day_positivity.md)
@@ -52,7 +52,6 @@ Saving my summaries of the resources that I have read on an independant platform
 
 #### Videos/Podcasts
 - Finding mastery
-- Oprhas & Eckhart Tolle
 - [Tim Ferriss](https://tim.blog/)
 - Elon Musk: ReCode
   
