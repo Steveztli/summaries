@@ -1,14 +1,6 @@
 # Summaries
 
-## Purpose
-Saving my summaries of the resources that I have read on an independant platform.
-
-## Summaries
-
-#### Articles
-* Google: Project Aristotle
-
-#### Books
+## Books [en]
 * __Atomic Habits__: An Easy and Proven Way to Build Good Habits and Break Bad Ones - James Clear
 * __Captivate__: The Science of Succeeding with People - Vanessa Van Edwards
 * [__Dare to Lead__](books/dare_to_lead.md) - Brené Brown
@@ -24,38 +16,17 @@ Saving my summaries of the resources that I have read on an independant platform
 * [__Win Forever__](/books/win_forever.md): Live, Work, and Play Like a Champion - Pete Carroll
 * __You Are a Badass__: How to Stop Doubting Your Greatness and Start Living an Awesome Life - Jen Sincero
 
-#### Challenges
+## Books [fr]
+
+* [__L'art d'être heureux__](books/lart_detre_heureux.md): Arthur Schopenhauer
+
+
+## Challenges
 * [__30 day of Positivity__](/challenges/30_day_positivity.md)
 
-#### Trainings
+## Trainings
 
 - Compete to Create
-- Rhetoric
 
-## Potential resources
-
-
-#### Books
-
-- Endure: Mind, Body and the Curiously Elastic Limits of Human Performance - Alex Hutchinson
-- Everything Is F*cked: A Book About Hope - Mark Manson
-- Leadership Strategy and Tactics: Field Manual - Jocko Willink
-- Looking down the Wolf - Mark Divine
-- Relentless: From Good to Great to Unstoppable - Tim S. Groover
-- One minute manager
-- The Power of Now
-- Thank you for arguing
-- How to talk to anyone
-- The happiness advantage
-- The Culture code
-- Learned Optimism
-
-#### Videos/Podcasts
-- Finding mastery
-- [Tim Ferriss](https://tim.blog/)
-- Elon Musk: ReCode
-  
-#### Others
-- Emotional Inteligence 2.0
-- Google Emotional Intelligence 101 course
-- [Google rework](https://rework.withgoogle.com/guides/understanding-team-effectiveness/steps/introduction/)
+## Future readings
+[List of potential future readings](./next.md)
