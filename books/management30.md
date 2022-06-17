@@ -2,6 +2,8 @@
 
 ## Why things are not that simple
 
+No matter what you plan for the system, it is not going to happen. The system you live in doesn't care about your plans.
+
 #### Casual determinism
 
 One action results to one outcome
@@ -38,6 +40,10 @@ Theory of constraints:
 > Unified models of complex systems are impossible to create
 
 Focus on adaptability not on predictability.
+
+### About many managements theories
+Real scientific theories would nout only identify some natural phenomena, but would also make assertions about observations in the real world.
+They often are not "theories" but techniques.
 
 ## Agile Software Development
 
