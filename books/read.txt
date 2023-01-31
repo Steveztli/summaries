@@ -1,4 +1,0 @@
-Read spotify
-Waterfall
-Kanban
-Odoo
