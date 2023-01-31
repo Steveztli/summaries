@@ -53,7 +53,7 @@ Plan everything, no unexpected → no surprise → no doubts → confidence
 
 Everyone needs to be completely engaged: players, coachs,...
 
-Ask for commitment, but let them think about it before they commitso that they have time to think about it, this gives more value to their commitements.
+Ask for commitment, but let them think about it before they commit so that they have time to think about it, this gives more value to their commitements.
 
 ##### Ground Rules
 
