@@ -1,11 +1,13 @@
 # Summaries
 
 ## Books [en]
+* __Ask Iwata__: - Satoru Iwata
 * __Atomic Habits__: An Easy and Proven Way to Build Good Habits and Break Bad Ones - James Clear
 * __Captivate__: The Science of Succeeding with People - Vanessa Van Edwards
 * [__Dare to Lead__](books/dare_to_lead.md) - Brené Brown
 * __Drive__: The Surprising Truth about What Motivates Us - Daniel H. Pink
 * __Grit__: The Power of Passion and Perseverance - Angela Duckworth
+* __Leadership is Language__: - David Marquet
 * [__Management 3.0__](/books/management30.md): Leading Agile Developers, Developing Agile Leaders - Jurgen Appelo
 * [__Meditations__](/books/meditations.md) - Marcus Aurelius
 * [__Mindset__](/books/mindset.md): Changing the Way You Think to Fulfil Your Potential - Dr Carol Dweck
