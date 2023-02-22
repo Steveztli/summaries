@@ -14,11 +14,12 @@
 * __No Rules Rules__ - Reed Hastings / Erin Meyer
 * __Powerful__: Building a Culture of Freedom and Responsibility - Patty McCord
 * __Radical Candor__: How to Get What You Want by Saying What You Mean - Kim Scott
-* __Scrum__ - The art of Doing Twice the Work in Half the Time - Jeff Sutherland
-* __Show your work!__ - Austin Kleon
+* [__Scrum__ - The art of Doing Twice the Work in Half the Time](/books/scrum_the_art_of_doing_twice_the_work_in_half_the_time.md) - Jeff Sutherland
+* [__Show your work!__](/books/show_your_work.md) - Austin Kleon
 * [__Stealing Fire__](/books/stealing_fire.md): How Silicon Valley, the Navy SEALs, and Maverick Scientists Are Revolutionizing the Way We Live and Work - Steven Kotler and Jamie Wheal
+* [__The Charisma Myth__](/books/the_charisma_myth.md) - Olivia Fox Cabane
 * __The Subtle Art of not giving a F*ck__ - Mark Manson
-* __The Unicorn Project__ - Gene Kim
+* [__The Unicorn Project__](/books/the_unicorn_project.md) - Gene Kim
 * [__Win Forever__](/books/win_forever.md): Live, Work, and Play Like a Champion - Pete Carroll
 * __You Are a Badass__: How to Stop Doubting Your Greatness and Start Living an Awesome Life - Jen Sincero
 
