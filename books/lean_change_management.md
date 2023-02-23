@@ -93,3 +93,156 @@ How to lead Lean coffe (same generation and selection of topics as in the Open S
   - Blue zone: these hacks can get you hauled into the boss' office for a lecture or worse.
   - Red zone: these are the most disruptive and can lead to potentially needing to update your resume, they can also severly harm the company.  
 
+#### Retro about change
+
+! It can be useful to make a retro about a change and then provide the result as a feedback to the people promoting and making the change.
+
+#### Force Field Analysis
+
+Take a sheet of paper and draw a line down the middle. On one side, write all the forces pushing against or restraining the change. On the other side, write all the forces supporting or driving the change.
+You can assign to each force a strenght score (from 1 to 5).
+
+Then you can have an overall view of the change and which direction is the strongest.
+
+Top-down change without honest feedback from those affected by the change simply will not work. By using Force Field analysis , we provide a safe feedback mechanism for teams because the data was anonymous, and we provided the executives with useful information they could use to adjust the strategy.
+
+#### Assessements that generates Insights
+
+##### ADKAR
+
+Adkar has two dimension the business and the people dimension.
+
+Business dimension:
+- Business need: the business need and opportunity are identified
+- Concept and design: creating the plan for a change process, including scope and objectives
+- Implementing: executing the change
+- Post-implementation: this step is comprised of the usual project post-implementation activities like project close-out and post-mortem.
+
+Once you created Awareness and Desire , that doesn't mean everyone in the organization is at the same leveland they are ready to acquire knowledge.
+
+##### OCAI
+Organizational Culture Assessement Instrument
+
+OCAI defines 4 culture types:
+- Clan: Internally focused, values flexibility and freedom
+- Hierarchy: Internally focused, values stability and control
+- Adhocracy: Externally focused, values flexibility and freedom
+- Market: Externally focused, values stability and control
+
+##### Schneider Culture Model
+From the book Re-engineering alternative: a plan for making your current company culture work
+
+- Collaboration: "We succeed by working together"
+- Control: "We succeed by etablishing  and maintaining control"
+- Cultivation: "We succeed by growing our people"
+- Competence: "We succeed by being the best"
+
+## Frameworks
+
+### Kotter's 8 step Change Model
+- Create urgency
+- Form a powerful coalition
+- Create a vision for the change
+Think of the vision as your 30-second elevator pitch for the change. this vision must be specific, measurable, actionable, inspriring and realistic. See the vision as a Lighthouse that we want to reach.
+- Communicate the Vision
+- Relove Obstacles
+- Create short term wins
+To build up on the change and to keep motivation
+- Build on the change
+- Anchor the change in Corporate Culture 
+
+McKinsey 7S Framework
+
+- Strategy
+- Structure
+- Systems
+- Shared values
+- Skills
+- Style
+- Staff
+
+Domino effect, a change in one area of an organization has consequences to other areas.
+
+Trying to apply a Structured change process is one of the cause of change failures.
+A plan is needed, but it needs to be adapted constantly according to the insights and feedbacks.
+
+## Options
+
+Rate your options on a graph with x-axis being the cost and y-axis being the value. From this graph, select the options that you will add in the backlog of changes and keep the other ones as ideas for a potential future.
+
+### Blast radius
+https://idealeap.com/downloads
+
+Which departments, people and management roles are directly and indirectly affected by the change.
+
+### Sphere of Influence
+Understand where support for the change will come from.
+
+To classify your options, think about the impacts and questions coming from McKinsey 7S, ADKAR and Kotter's 8-steps.
+https://leanchange.org/
+
+### Manage change with Kanban
+
+4 columns: Abandon, Yikes!, Do later, Do now
+3 rows: Training, Communication, Process changes
+
+Don't forget to share and make visible your change plan
+
+## Experiments
+
+### Create Hypotheses for experiments
+
+Think about:
+- What the Experiment would be
+- Who would be affected
+- What the benefit would be
+- How to validate the Experiment as successful
+
+#### Template
+
+We hypothesize by "implementing this change"
+we will "solve this problem"
+which will have "these benefits"
+as leasured by "this measurement"
+
+### Validating experiments 
+
+#### Before the experiment:
+How will we know this Experiment has been successful?
+How will we know we are moving towars our intended outcome?
+
+#### After
+
+- Did the people affected by the change get the outcome they thought they would?
+- Has this experiment improved something for them or made them happier?
+
+### Improvement Canvas
+The format of your canvas matters less than the conversation that creates it.
+
+4 steps of the improvement kata:
+- Understand the direction
+- Grasp the current condition
+- Etablish the target condition
+- PDCA (Plan, do, check, act)
+
+-> Check: One page change plan
+
+Always encourage feedback!
+
+### Measuring experiments
+
+! What get measured, gets managed !
+
+Be careful about how you measure progress because it'll influence behavior.
+-> Separate measurements from diagnostics
+
+## Creating Alignment for Change
+
+- Develop your strategic change canvas
+- Align your organization
+- Develop your change agent network
+- Execute the lean change management cycle
+
+-> Check: Strategic change canvas / Departement change canvas
+
+Change goes viral when people start helping other people adjust

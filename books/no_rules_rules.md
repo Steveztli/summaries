@@ -4,9 +4,7 @@
 
 Netflix culture
 > People over process, emphasized innovation over efficiency, and very few controls.
-Lead employees with context, not control.
-
-* Check Netflix Culture deck powerpoint
+Lead employees with context, not control.   
 
 There are 2 pre-requisite to reduce controls:
 - Build up talent density, rules are often there to deal with sloppy, unprofessional or irresponsible behaviors.
