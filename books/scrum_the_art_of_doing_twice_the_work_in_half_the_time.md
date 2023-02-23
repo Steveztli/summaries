@@ -1,48 +1,38 @@
-Scrum shines in complex domains where
+# Scrum: the art of doing twice the work in half the time
 
-Si projet fix price. Requirements sont clair?
+Scrum shines in complex domains where product requirements are unclear.
 
-product requirements are unclear.
+### Planning 
 
-Now as then, the reports become more important than the reality they’re supposed to describe, and if there’s a discrepancy, reality is the problem, not the charts.
+Management wants two things on any project: control and predictability. This leads to vast numbers of documents and graphs and charts.
 
-Eisenhower once observed that planning for combat is important, but as soon as the first shot is fired, your plans go up in smoke. At
+Every project involves discovery of problems and bursts of inspiration. Trying to restrict a human endeavor of any scope to color-coded charts and graphs is foolish and doomed to failure.
 
-management wants two things on any project: control and predictability. This leads to vast numbers of documents and graphs and charts,
-
-The problem is that the rosy scenario never actually unfolds. All that effort poured into planning, trying to restrict change, trying to know the unknowable is wasted. Every project involves discovery of problems and bursts of inspiration. Trying to restrict a human endeavor of any scope to color-coded charts and graphs is foolish and doomed to failure. It’s not how people work, and it’s not how projects progress. It’s not how ideas reach fruition or how great things are made.
+### Why Scrum
 
 Scrum embraces uncertainty and creativity. It places a structure around the learning process, enabling teams to assess both what they’ve created and, just as important, how they created it.
 
-Find anpfher e ampe fpor tiktpl
+At its root, Scrum is based on a simple idea: whenever you start a project, why not regularly check in, see if what you’re doing is heading in the right direction, and if it’s actually what people want? 
+And question whether there are any ways to improve how you’re doing what you’re doing, any ways of doing it better and faster, and what might be keeping you from doing that.
 
-The cathedral at Chartres took fifty-seven years to build. It’s a safe bet that at the beginning of the project the stonemasons looked at the bishop and said, “Twenty years, max. Probably be done in fifteen.”
-
-At its root, Scrum is based on a simple idea: whenever you start a project, why not regularly check in, see if what you’re doing is heading in the right direction, and if it’s actually what people want? And question whether there are any ways to improve how you’re doing what you’re doing, any ways of doing it better and faster, and what might be keeping you from doing that.
-
-Companies that still cling to tried-but-not-true ideas of command and control and that attempt to impose rigid predictability are simply doomed to fail if their competitors use Scrum.
-
-here, but one of the key concepts that Ohno introduced is the idea of “flow.” That is, production should flow swiftly and calmly throughout the process, and, he said, one of management’s key tasks is to identify and remove impediments to that flow. Everything that stands in the way is waste. Ohno gives waste a moral, as well as a business, value in his classic book, The Toyota Production System:
-
+### Waste
 Eliminating waste must be a business’s first objective.
+
+One of the key concepts that Ohno introduced is the idea of “flow.” That is, production should flow swiftly and calmly throughout the process, and, he said, one of management’s key tasks is to identify and remove impediments to that flow. Everything that stands in the way is waste.
+
+### Predictability
 
 At the end of the Sprint, the team comes together and shows what they’ve accomplished during the time they’ve collaborated. They look at how many of those sticky notes they actually got done. Did they bring too many into the Sprint and not finish them all? Did they not bring enough? What’s important here is that they begin to have a baseline sense of how fast they can go—their velocity.
 
 After they’ve shown what they’ve done—and here’s where Ohno’s ideas come in—they discuss not what they did, but how they did it.
 
-smarter. Jeff Johnson says his teams increased
-
-working better and smarter.
+### Shifting to client oriented
 
 “Scrum is not about the developers. It’s about the customers and stakeholders. Really, it was an organizational change. Showing the actual product was the most powerful part.”
 
-The problem was, everyone said, “Not my job.”
-
 They delivered their piece and left it at that. They never looked at the site from the user’s point of view, merely from their own. The reason they could do that was that they weren’t aligned—weren’t united in a common purpose.
 
-that requires everyone not only to see the end goal, but to deliver incrementally toward that goal.
-
-How much of your life is wasted on work that both you and your boss realize doesn’t create value?
+`How much of your life is wasted on work that both you and your boss realize doesn’t create value?`
 
 THE TAKEAWAY Planning Is Useful. Blindly Following Plans Is Stupid. It’s just so tempting to draw up endless charts. All the work needed to be done on a massive project laid out for everyone to see—but when detailed plans meet reality, they fall apart. Build into your working method the assumption of change, discovery, and new ideas. Inspect and Adapt. Every little while, stop doing what you’re doing, review what you’ve done, and see if it’s still what you should be doing and if you can do it better. Change or Die. Clinging to the old way of doing things, of command and control and rigid predictability, will bring only failure. In the meantime, the competition that is willing to change will leave you in the dust. Fail Fast So You Can Fix Early. Corporate culture often puts more weight on forms, procedures, and meetings than on visible value creation that can be inspected at short intervals by users. Work that does not produce real value is madness. Working product in short cycles allows early user feedback and you can immediately eliminate what is obviously wasteful
 
