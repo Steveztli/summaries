@@ -7,11 +7,12 @@
 * [__Dare to Lead__](books/dare_to_lead.md) - Brené Brown
 * __Drive__: The Surprising Truth about What Motivates Us - Daniel H. Pink
 * __Grit__: The Power of Passion and Perseverance - Angela Duckworth
+* [__Lean change management__](/books/lean_change_management.md) - Jason Little
 * __Leadership is Language__: - David Marquet
 * [__Management 3.0__](/books/management30.md): Leading Agile Developers, Developing Agile Leaders - Jurgen Appelo
 * [__Meditations__](/books/meditations.md) - Marcus Aurelius
 * [__Mindset__](/books/mindset.md): Changing the Way You Think to Fulfil Your Potential - Dr Carol Dweck
-* __No Rules Rules__ - Reed Hastings / Erin Meyer
+* [__No Rules Rules__](/books/no_rules_rules.md) - Reed Hastings / Erin Meyer
 * __Powerful__: Building a Culture of Freedom and Responsibility - Patty McCord
 * __Radical Candor__: How to Get What You Want by Saying What You Mean - Kim Scott
 * [__Scrum__ - The art of Doing Twice the Work in Half the Time](/books/scrum_the_art_of_doing_twice_the_work_in_half_the_time.md) - Jeff Sutherland
