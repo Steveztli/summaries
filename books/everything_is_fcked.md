@@ -1,4 +1,4 @@
-#Everything is fkced
+# Everything is fkced
 
 "A man should look for what is, and not what he thinks should be"
 "Everyone is a genius. But if you judge a fish by its ability to climb a tree, it will live its whole life believing that it is stupid".
