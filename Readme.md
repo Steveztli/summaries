@@ -5,6 +5,7 @@
 * __Atomic Habits__: An Easy and Proven Way to Build Good Habits and Break Bad Ones - James Clear
 * __Captivate__: The Science of Succeeding with People - Vanessa Van Edwards
 * [__Dare to Lead__](books/dare_to_lead.md) - Brené Brown
+* [__Everything is f*cked__](books/everything_is_fcked.md) - Mark Manson
 * __Drive__: The Surprising Truth about What Motivates Us - Daniel H. Pink
 * __Grit__: The Power of Passion and Perseverance - Angela Duckworth
 * [__Lean change management__](/books/lean_change_management.md) - Jason Little

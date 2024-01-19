@@ -46,5 +46,49 @@ Stealth intention is a self-protection need that lurks beneath the surfacea nd o
 "They won't turn away from me and think I'm a bad person".
 Stealth expectation always lead to disappointement, resentment, and more fear.
 
-## Part 2 - The call to courage
+## Tasc approach
 
+The Accountability and Success Checklist
+
+- T - Who owns the taks?
+- A - Do they have the authority to be held accountable?
+- S - Do we agree that they are set up for success (time, resources, clarity)?
+- C - Do we have a checklist of what needs to happen to accomplish the task?
+
+We want people to share our commitment to purpose and mission, not to comply because they're afraid not to.
+
+## Uncertainty
+When we are managing during a time of scarcity or deep uncertainty, it is imperative that we embrace the uncertainty. We need to tell our teams that we will share as much as we're able when we're able.
+We need to be available to fact-check the stories that our team members might be making up, because in scarcity we invent worst-case scenarios. We need to open up the room for rumbling aroung vulnerability.
+
+## Easy learning
+
+Easy learning doesn't build strong skills.
+The trend in many organizations is to design learning to be as easy as possible. Aiming to respect their employee's busy lives, companies build training programs that can be done at any time, with no prerequisites, and often on mobile device. The result is fun and easy training programs that employees rave about but don't actually instill lasting learning.
+
+Worse still, programs like these may lead employers to optimize for misleading metrics, like maximizing for 'likes' or 'shares' or high 'net promoter score' which are easy to earn when programs are fun and fluent but not when they are demanding. Instead of designing for recall or behavior change, we risk designing for popularity.
+
+## Grounded conficence
+Grounded confidence = Rumble skills + curiosity + practice
+
+We're scared to have hard conversations because we can't control the path or outcome, and we start coming out of our skin when we don't get to resolution fast enough. It's as if we'd rather have a bad solution that leads to action than stay in the uncertainty of problem identification.
+
+> If i had an hour to solve a problem, I'd spend fifty-five minutes thinking about the problem and five minutes thinking about the solutions. Albert Einstein.
+
+## Statements/questions to bring alignment
+
+- Walk me through all of the assumptions you are working off.
+- How did y'all come up with the schedule?
+- What are y'all seeing as the goal of the training?
+- Help me understand what you see as the benefit of this approach.
+  
+## Trust
+In our joint experience, we've learned that trust is the one thing that changes everything. It's not a nice-to-have; it's a must-have. Without it, every part of your organization can fall, literally, into disrepair. With trust, all things are possible - most importantly: continuous improvement and sustainable, measurable, tangible results in the marketplace.
+
+> Be careful when a naked person offers you a shirt. African saying.
+
+## Path for success
+1. The level of collective courage in an organization is the absolute best predictor of that organization's ability to be successful in terms of its culture, to develop leaders, and to meet its mission.
+2. The greatest challenge in developing brave leaders is helping them acknowledge and answer their personal call to courage. Courage can be learned if we're willing to put down our armor and pick up the shared language, tool, and skills we need for rumbling with vulnerability, living into our values, braving trust and learning to rise.
+3. We fail the minute we let someone else define success for us. Like many of you, I spent too many years taking on projects and even positions, just to prove I could do it.
+I was driven by a definition of success that didn't reflect who I am, what I want, or what brings me joy. It was simply accomplush-acquire-collapse-repeat.
